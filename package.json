@@ -1,0 +1,21 @@
+{
+  "name": "node-restful-test",
+  "version": "1.0.0",
+  "description": "Testing the node-restful library w/Node, Express, MongoDB &amp; Mongoose",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evwilkin/node-restful-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evwilkin/node-restful-test/issues"
+  },
+  "homepage": "https://github.com/evwilkin/node-restful-test#readme"
+}
