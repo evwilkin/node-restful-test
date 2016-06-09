@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "description": "Testing the node-restful library w/Node, Express, MongoDB &amp; Mongoose",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.20",
+    "node-restful": "^0.2.5"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
